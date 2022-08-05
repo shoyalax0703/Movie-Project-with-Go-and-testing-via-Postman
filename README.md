@@ -1,4 +1,6 @@
 Creating simple movie app with go and tested using Postman 
+
+
 Project structure
 <img width="1038" alt="Screen Shot 2022-08-05 at 15 17 25" src="https://user-images.githubusercontent.com/66551005/183013749-45d16306-0552-4882-a330-5c808d6f63a1.png">
 
