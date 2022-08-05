@@ -8,7 +8,7 @@ Get all movie
 Get movie by ID
 <img width="1617" alt="Screen Shot 2022-08-05 at 14 14 03" src="https://user-images.githubusercontent.com/66551005/183013994-f400d58f-8717-4282-b631-574e9929041d.png">
 Create movie
-https://github.com/shoyalax0703/Movie-Project-with-Go-and-testing-via-Postman.git
+<img width="1661" alt="Screen Shot 2022-08-05 at 14 56 15" src="https://user-images.githubusercontent.com/66551005/183014263-3534b1ce-1a31-4b95-8b53-d052f0da3625.png">
 Update movie 
 <img width="1661" alt="Screen Shot 2022-08-05 at 14 59 12" src="https://user-images.githubusercontent.com/66551005/183014128-493a8592-4d57-4202-a8c2-dacd532a768b.png">
 Delete movie 
