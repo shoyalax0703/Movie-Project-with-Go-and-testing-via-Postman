@@ -1,20 +1,14 @@
-Creating simple movie app with go and tested using Postman 
+# Creating simple movie app with go and tested using Postman 
 
 
-Purpose
+## Purpose
+1. Getting used to writing Golang
+2.  Using Postman to test API
 
-1, Getting used to writing Golang
-
-
-2, Using Postman to test API
-
-
-Project structure
+## Project structure
 <img width="1038" alt="Screen Shot 2022-08-05 at 15 17 25" src="https://user-images.githubusercontent.com/66551005/183013749-45d16306-0552-4882-a330-5c808d6f63a1.png">
 
-Test using postman
-
-
+## Test using postman
 Get all movie 
 <img width="1661" alt="Screen Shot 2022-08-05 at 15 10 39" src="https://user-images.githubusercontent.com/66551005/183013931-4a48912e-46bb-4ec3-b5e3-6a3bb49b7240.png">
 Get movie by ID
